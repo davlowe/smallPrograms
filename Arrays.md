@@ -3,3 +3,6 @@
   add/remove elements to it, print its contents, and search for a specific value within the array. 
 
  ✨ The user does so via a menu of prompts until they choose to exit. 
+
+ ✨ Sample outputs:
+ [Output image one](https://github.com/davlowe/smallPrograms/blob/main/arrayOne.png)
