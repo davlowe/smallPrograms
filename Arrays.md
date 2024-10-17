@@ -4,5 +4,11 @@
 
  ✨ The user does so via a menu of prompts until they choose to exit. 
 
- ✨ Sample outputs:
- [Output image one](https://github.com/davlowe/smallPrograms/blob/main/arrayOne.png)
+### Sample outputs:
+ [Adding and printing](https://github.com/davlowe/smallPrograms/blob/main/arrayOne.png)
+ 
+ [Searching and removing duplicate](https://github.com/davlowe/smallPrograms/blob/main/arrayTwo.png)
+
+[Printing after duplicate is removed](https://github.com/davlowe/smallPrograms/blob/main/Array3.png)
+
+#### ✨✨✨ [Source Code (with comments) here!](https://github.com/davlowe/smallPrograms/blob/main/arrayOfRecordsStructure.java) ✨✨✨
